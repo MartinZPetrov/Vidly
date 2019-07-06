@@ -24,5 +24,3 @@ MVC 5 Video Rental APP
 
 ● Using AutoMapper
 
-● Certificate - https://www.udemy.com/certificate/UC-VM7WRJIN/
-
