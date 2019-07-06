@@ -1,5 +1,7 @@
 # Vidly
 
+MVC 5 Video Rental APP
+
 ● Implementing CRUD operations
 
 ● Building forms with server-side and client-side validation
